@@ -2,7 +2,7 @@
 
 Este repositório será usado para praticar **merges e conflitos** em um projeto front‑end.
 
-## Como começar
+## Como começar - teste
 1. Crie sua branch a partir de `develop`:
    ```bash
    git checkout develop
